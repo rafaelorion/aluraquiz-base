@@ -1,0 +1,7 @@
+
+//Criando aplicação em next
+npx create-next-app --example with-styled-components
+
+//Rodar aplicação
+npm run dev ou yarn dev
+
