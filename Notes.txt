@@ -10,4 +10,4 @@ yarn install
 
 ctrl + shift + p (EsLint fix all auto-fixable problems)
 
-
+yarn add prop-types
