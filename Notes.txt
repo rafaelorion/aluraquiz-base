@@ -19,3 +19,6 @@ http://localhost:3000/api/db
 yarn add framer-motion
 
 yarn add @crello/react-lottie
+
+
+https://www.framer.com/motion/
